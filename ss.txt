@@ -2,3 +2,5 @@
 1st line : bday
 2nd : age x 3
 3rd: ung output mo sa index.html
+
+aling output?
